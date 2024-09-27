@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Podcast Player</string>
+    <!-- Home Screen -->
+    <string name="podcast_home_title">Subscribed Podcasts</string>
+
+    <!-- Loading Screen -->
+    <string name="loading_text">Loading...</string>
+
+    <!-- Error Screen -->
+    <string name="error_generic_text">Oops! Something went wrong!</string>
+    <string name="try_again_button_text">Try again</string>
+
+    <!-- Podcast Component -->
+    <string name="none_category">None</string>
+
+    <!-- Podcast Search Screen -->
+    <string name="podcast_search_title_first">PODCAST</string>
+    <string name="podcast_search_title_second">SEARCH</string>
+    <string name="podcast_search_hint">Search</string>
+
+    <!-- Podcast Details Screen -->
+    <string name="episode_title">Episodes</string>
+
+    <!-- Error Messages -->
+    <string name="connection_error">Oops! Something went wrong! Please, check your internet connection and try
+        again.</string>
+</resources>
